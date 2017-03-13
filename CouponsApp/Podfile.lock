@@ -1,0 +1,40 @@
+PODS:
+  - BMSAnalytics (2.2.0):
+    - BMSCore (~> 2.1)
+  - BMSAnalyticsAPI (2.2.0)
+  - BMSCore (2.3.1):
+    - BMSAnalyticsAPI (~> 2.2)
+  - HDAugmentedReality (1.0.1)
+  - IBMMobileFirstPlatformFoundation (8.0.2016070718)
+  - IBMMobileFirstPlatformFoundationLiveUpdate (8.0.2016070421):
+    - IBMMobileFirstPlatformFoundation (~> 8.0)
+  - SwiftyJSON (2.3.2)
+
+DEPENDENCIES:
+  - BMSAnalytics
+  - HDAugmentedReality (from `https://github.com/DanijelHuis/HDAugmentedReality.git`)
+  - IBMMobileFirstPlatformFoundation
+  - IBMMobileFirstPlatformFoundationLiveUpdate
+  - SwiftyJSON
+
+EXTERNAL SOURCES:
+  HDAugmentedReality:
+    :git: https://github.com/DanijelHuis/HDAugmentedReality.git
+
+CHECKOUT OPTIONS:
+  HDAugmentedReality:
+    :commit: 06fc2093160284e3a7b6c3c6585547dc6214340c
+    :git: https://github.com/DanijelHuis/HDAugmentedReality.git
+
+SPEC CHECKSUMS:
+  BMSAnalytics: 58ceebea7d929db5811b9e3c51282480b39622c2
+  BMSAnalyticsAPI: 2dae02bc3321b944ae947a7d2f0f009d8035f8e7
+  BMSCore: 59a1a6769d398f55b8bd83be647e084812b924e0
+  HDAugmentedReality: aa514e9cebb52e16c8d29170830f098a094fd2b7
+  IBMMobileFirstPlatformFoundation: adfc8b080dcb484bc49d37a97863b706f0fb31cb
+  IBMMobileFirstPlatformFoundationLiveUpdate: 709bb176afab9634bb478afab22f303999d27986
+  SwiftyJSON: 04ccea08915aa0109039157c7974cf0298da292a
+
+PODFILE CHECKSUM: 23b3c346f02ca7900537f3a71e6a1afca6c970ec
+
+COCOAPODS: 1.1.1

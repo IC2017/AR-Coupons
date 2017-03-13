@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../ClubMemberTypeSegmentResolver/ClubMemberTypeSegmentResolver.iml" filepath="$PROJECT_DIR$/../ClubMemberTypeSegmentResolver/ClubMemberTypeSegmentResolver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../UserLogin/UserLogin.iml" filepath="$PROJECT_DIR$/../UserLogin/UserLogin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/coupons.iml" filepath="$PROJECT_DIR$/coupons.iml" />
+    </modules>
+  </component>
+</project>
